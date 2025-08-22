@@ -50,9 +50,9 @@ public class Main {
 
         //boolean statement is only usable if its use in "true or false" statement
 
-        boolean isStudent = false;
+        boolean Student = false;
 
-        if(isStudent){
+        if(Student){
             System.out.println("You are a Student!");
         }
         else{

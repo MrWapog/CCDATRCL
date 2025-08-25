@@ -70,7 +70,7 @@ public class Main {
         System.out.println("I love " + food);
         System.out.println("-------------------------------------------------");
 
-        // CONSTANTS
+        // CONSTANTSs
 
     }
 

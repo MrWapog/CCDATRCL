@@ -24,4 +24,4 @@ public class Activity_2 {
         System.out.println("\nOver all total of the input: " + numbers.size());
         scanner.close(); // Close scanner to prevent resource leak
     }
-}
+}                     // Exit option

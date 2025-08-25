@@ -25,4 +25,3 @@ public class Activity_2 {
         scanner.close(); // Close scanner to prevent resource leak
     }
 }
-

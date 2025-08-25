@@ -67,7 +67,7 @@ public class Activity_3 {
                     System.out.println("Invalid choice! Please try again.");
             }
         } while (choice != 4);  // Loop ends when user picks 4
-        // Loop ends when user picks 4
+        // Loop ends when user picks 41
         scanner.close();
     }
 }

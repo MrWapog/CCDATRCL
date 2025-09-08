@@ -50,7 +50,7 @@ class TheaterTicketSystem {
         }
     }
 }
- // input ng customer name and tickets requested
+// input ng customer name and tickets requested
 public class Activity_6 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -78,5 +78,4 @@ public class Activity_6 {
         system.processQueue();
     }
 }
-
 
